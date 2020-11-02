@@ -1,6 +1,7 @@
 # Mind game
 
 > A simple Vue.js demo
+> The task was to make a component with a "mind game"
 
 ## Build Setup
 
